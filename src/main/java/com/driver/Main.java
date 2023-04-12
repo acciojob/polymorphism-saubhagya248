@@ -7,7 +7,7 @@ public class Main {
 //
         int z=p.product(3,4,5);
 //
-//        double y=p.product(3.5,4.5);
+        double y=p.product(3.5,4.5);
     }
 }
 
@@ -19,7 +19,7 @@ class Product{
         return z;
     }
 //
-//    public double product(double x, double y) {
-//        return y;
-//    }
+    public double product(double x, double y) {
+        return y;
+    }
 }
